@@ -1,3 +1,4 @@
 # html-code-snippets
 
-1) carousel-snippet
+1) NavBar-with-Black-BG-snippet
+2) carousel-snippet
