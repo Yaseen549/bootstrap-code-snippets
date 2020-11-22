@@ -1,4 +1,4 @@
-# html-code-snippets
+# bootstrap-snippets
 
 1) NavBar-with-Black-BG-snippet
 2) Carousel-snippet
