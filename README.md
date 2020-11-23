@@ -8,3 +8,4 @@
 ### Components
 
 5) Alert
+6) Badges
